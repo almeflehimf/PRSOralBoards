@@ -38,4 +38,24 @@ open licenses. No images have been modified from their original form.
 
 ---
 
-*Last updated: April 2026*
+## Case 4 — Breast Revision
+
+- **Image title:** Image of patient with capsular contracture needing breast revision
+- **Author:** Jaketerrain
+- **Source:** https://commons.wikimedia.org/wiki/User:Jaketerrain
+- **License:** CC BY-SA 4.0
+- **License URL:** https://creativecommons.org/licenses/by-sa/4.0/
+- **Modifications:** None
+  
+---
+
+- ## Case 5 — Burn Injury
+
+- **Image title:** Case 1, postoperative medial view of the right leg
+- **Author:** Clifford Sheckter, Arhana Chattopadhyay, John Paro, and Yvonne Karanas
+- **Source:** https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5151131/
+- **License:** CC BY 4.0
+- **License URL:** https://creativecommons.org/licenses/by/4.0/
+- **Modifications:** None
+  
+*Last updated: May 2026*
