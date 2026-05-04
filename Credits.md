@@ -49,13 +49,13 @@ open licenses. No images have been modified from their original form.
   
 ---
 
-- ## Case 5 — Burn Injury
+- ## Case 5 — Leg Wound
 
-- **Image title:** Case 1, postoperative medial view of the right leg
-- **Author:** Clifford Sheckter, Arhana Chattopadhyay, John Paro, and Yvonne Karanas
-- **Source:** https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5151131/
-- **License:** CC BY 4.0
-- **License URL:** https://creativecommons.org/licenses/by/4.0/
+- **Image title:** Open wound after debridement of NF
+- **Author:** Morphx1982
+- **Source:** https://commons.wikimedia.org/wiki/File:Open_wound_after_debridement_of_NF.jpg
+- **License:** CC BY-SA 4.0
+- **License URL:** https://creativecommons.org/licenses/by-sa/4.0/
 - **Modifications:** None
   
 *Last updated: May 2026*
